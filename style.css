@@ -40,3 +40,8 @@ h3 {
 .clear {
     clear: both;
 }
+
+ul.inline-list li {
+    position: 0;
+    padding: 0
+}
